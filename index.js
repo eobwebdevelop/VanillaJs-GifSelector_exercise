@@ -74,10 +74,10 @@ selectId.addEventListener("change", (e) => {
                li.appendChild(p);
                p.appendChild(img);
             })
-         }
-         renderTacos(tacoGifs);
+
     
     }
 })
+
 
 
