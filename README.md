@@ -1,4 +1,5 @@
 
 
-#Deployed version: https://eobwebdevelop.github.io/VanillaJs-GifSelector_exercise/
+#Deployed version: 
+https://eobwebdevelop.github.io/VanillaJs-GifSelector_exercise/
 
